@@ -1,0 +1,9 @@
+img{
+    float:right;
+    /* display: none; */
+    opacity: 1;
+}
+
+#prueba{
+    position:static;
+}

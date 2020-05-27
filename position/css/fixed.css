@@ -1,0 +1,15 @@
+
+
+.contenedor-chico{
+    height: 200px;
+    width: 100px;
+    background-color: rgba(0,0,200,.8);
+    position: fixed;
+    padding-top: 30px;
+    color:white;
+    /* opacity: 0; */
+    /* top:50px; */
+    /* left: 20px; */
+    /* right: 20px;
+    bottom: 20px; */
+}
